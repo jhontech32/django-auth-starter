@@ -8,3 +8,11 @@
 ```
 pip install -r requirements.txt
 ```
+
+## Modul tersedia
+```
+- Login
+- Register
+- Change password
+- Logout
+```
